@@ -37,14 +37,6 @@ Welcome to my GitHub profile! I'm a developer passionate about AI, hackathons, a
 - 🌐 Website: [your-website.com](https://your-website.com)
 - 💬 Discord: Your-Handle#0000
 
-## ⭐ How to Support
-
-If you find my projects interesting:
-- ⭐ Star repositories you like
-- 🐛 Report issues and suggest improvements
-- 🤝 Contribute with pull requests
-- 💬 Share feedback and ideas
-
 ---
 
 ### 📍 Status
