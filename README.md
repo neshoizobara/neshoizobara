@@ -23,10 +23,10 @@ Welcome to my GitHub profile! I'm a second-year student developer passionate abo
 - 📈 Contributing to open-source projects
 
 ## 🤝 Let's Connect
-- 📧 Email: [your-email@example.com](mailto:nedim.neimarlija@symphony.is)
-- 💼 LinkedIn: [your-profile](https://www.linkedin.com/in/nedim-neimarlija/)
+- 📧 Email: [nedim.neimarlija@symphony.is](mailto:nedim.neimarlija@symphony.is)
+- 💼 LinkedIn: [nedim-neimarlija](https://www.linkedin.com/in/nedim-neimarlija/)
 - 💬 Discord: neshoizobara
-
+- 
 **Last updated:** June 2026
 
 *Thanks for visiting! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.* 🚀
