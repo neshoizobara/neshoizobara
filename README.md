@@ -16,11 +16,6 @@ Welcome to my GitHub profile! I'm a second-year student developer passionate abo
 **Databases:** MongoDB, PostgreSQL  
 **Tools & Platforms:** Git, Docker, REST APIs, AI/ML APIs
 
-## 📊 GitHub Stats
-![Nedim's GitHub stats](https://github-readme-stats.vercel.app/api?username=neshoizobara&show_icons=true&theme=dark&hide_border=true&include_all_commits=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neshoizobara&layout=compact&theme=dark&hide_border=true&langs_count=10)
-
 ## 🎯 What I'm Working On
 - 📚 **Learning** - Advanced backend architecture patterns, scalable system design, Python and .NET best practices
 - 🔨 **Building** - My own applications and websites to strengthen my full-stack skills
@@ -28,10 +23,9 @@ Welcome to my GitHub profile! I'm a second-year student developer passionate abo
 - 📈 Contributing to open-source projects
 
 ## 🤝 Let's Connect
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 💼 LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
-- 🌐 Website: [your-website.com](https://your-website.com)
-- 💬 Discord: Your-Handle#0000
+- 📧 Email: [your-email@example.com](mailto:nedim.neimarlija@symphony.is)
+- 💼 LinkedIn: [your-profile](https://www.linkedin.com/in/nedim-neimarlija/)
+- 💬 Discord: neshoizobara
 
 **Last updated:** June 2026
 
