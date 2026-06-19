@@ -1,4 +1,4 @@
-# Hi there, I'm Nesh 👋
+# Hi there, I'm Nedim 👋
 
 Welcome to my GitHub profile! I'm a developer passionate about AI, hackathons, and building innovative solutions that make an impact.
 
@@ -10,24 +10,11 @@ Welcome to my GitHub profile! I'm a developer passionate about AI, hackathons, a
 - 💡 **Problem Solver** - Focused on practical solutions and user-centric design
 - 🌱 **Always Learning** - Constantly exploring new technologies and best practices
 
-## 💼 Featured Projects
-
-### AI & Recruitment Tech
-- **[Meta AI CV Screening & Ranking](https://github.com/AI-Hackaton-2026/meta_ai-cv-screening-and-ranking)** - AI-powered CV screening for recruiters with intelligent candidate ranking
-- **[Pick&Roll Interview Question Generator](https://github.com/AI-Hackaton-2026/pick_roll-interview-question-generator)** - AI-driven tool for generating structured interview questions
-- **[Hire IQ](https://github.com/AI-Hackaton-2026/gomboce-hire-iq)** - Intelligent hiring insights platform
-- **[Job Description Generator](https://github.com/AI-Hackaton-2026/ai-job-description-generator-and-optimizer)** - AI-powered JD optimization tool
-
-### Full-Stack Applications
-- **[Candidate Communication Assistant](https://github.com/AI-Hackaton-2026/NiScript-Candidate-Communication-Assistant)** - Streamlined candidate engagement tool
-- **[Notes To Actions (ROCKET)](https://github.com/AI-Hackaton-2026/Notes-To-Actions-ROCKET)** - Convert meeting notes into actionable tasks
-- **[Hiring Insights Dashboard](https://github.com/AI-Hackaton-2026/commit-and-pray-hiring-insights-dashboard-)** - Analytics and insights for hiring teams
-
 ## 🛠️ Tech Stack
 
 **Languages:** JavaScript | TypeScript | Python | C#  
 **Frontend:** React, Vue  
-**Backend:** Node.js, Django  
+**Backend:** Node.js, Django, .NET
 **Databases:** MongoDB, PostgreSQL  
 **Tools & Platforms:** Git, Docker, REST APIs, AI/ML APIs
 
