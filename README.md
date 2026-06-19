@@ -1,6 +1,6 @@
 # Hi there, I'm Nedim 👋
 
-Welcome to my GitHub profile! I'm a developer passionate about AI, hackathons, and building innovative solutions that make an impact.
+Welcome to my GitHub profile! I'm a second-year student developer passionate about backend development, hackathons, and building innovative solutions that make an impact.
 
 ## 🚀 About Me
 
@@ -20,15 +20,16 @@ Welcome to my GitHub profile! I'm a developer passionate about AI, hackathons, a
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=neshoizobara&show_icons=true&theme=dark&hide_border=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=neshoizobara&show_icons=true&theme=dark&hide_border=true&date_format=yyyy-mm-dd)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neshoizobara&layout=compact&theme=dark&hide_border=true)
 
 ## 🎯 What I'm Working On
 
-- 🔍 Building scalable AI applications for recruitment and hiring
+- 📚 **Learning** - Advanced backend architecture patterns, scalable system design, Python and .NET best practices
+- 🔨 **Building** - My own applications and websites to strengthen my full-stack skills
+- 🔍 Building scalable applications for recruitment and hiring
 - 📈 Contributing to open-source projects
-- 🎓 Expanding knowledge in machine learning and advanced AI techniques
 
 ## 🤝 Let's Connect
 
@@ -37,12 +38,15 @@ Welcome to my GitHub profile! I'm a developer passionate about AI, hackathons, a
 - 🌐 Website: [your-website.com](https://your-website.com)
 - 💬 Discord: Your-Handle#0000
 
----
+## ⭐ How to Support
 
-### 📍 Status
-- 🔭 Currently exploring: Advanced AI architectures, scalable backend design
-- 🤓 Learning: Latest ML frameworks and deployment strategies
-- 📚 Reading: Tech blogs and research papers on AI/ML
+If you find my projects interesting:
+- ⭐ Star repositories you like
+- 🐛 Report issues and suggest improvements
+- 🤝 Contribute with pull requests
+- 💬 Share feedback and ideas
+
+---
 
 **Last updated:** June 2026
 
